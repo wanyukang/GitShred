@@ -1,0 +1,4 @@
+interface:
+  display_name: "GitShred"
+  short_description: "Git leaked credential remediation"
+  default_prompt: "Use $gitshred to remediate leaked credentials from Git history."
